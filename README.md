@@ -29,9 +29,6 @@ Portfólio pessoal desenvolvido com React, Framer Motion e Vite. Design moderno 
 | Lucide React | Ícones modernos |
 | Vite | Build tool e dev server |
 
-## 📸 Preview
-
-![Preview do Portfolio](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Portfolio+Preview)
 
 ## 🚀 Como rodar localmente
 
