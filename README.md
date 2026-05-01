@@ -1,117 +1,63 @@
-# 👨‍💻 Matheus Araújo - Portfólio
+# Matheus Araújo
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=for-the-badge)](https://SEU_USER.github.io/portfolio/)
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animations-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+💻 Estudante de Análise e Desenvolvimento de Sistemas na UERJ.
 
-Portfólio pessoal desenvolvido com React, Framer Motion e Vite. Design moderno com tema escuro e animações fluidas.
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-## 🚀 Demo
+🏢 Estagiário de TI no Instituto Dara.
 
-🔗 **[Ver site ao vivo](https://SEU_USER.github.io/portfolio/)**
+📚 Em constante aprendizado nas áreas de tecnologia, desenvolvimento, dados e automação.
 
-## ✨ Funcionalidades
+📍 Rio de Janeiro, Brasil.
 
-- ✨ Animações fluidas com Framer Motion
-- 📱 Design responsivo (mobile-first)
-- ⚡ Carregamento rápido com Vite
-- 🎨 Tema escuro moderno
-- 📧 Seção de contato funcional
-- 🎯 Navegação suave entre seções
+---
 
-## 🛠️ Tecnologias
+## Tecnologias em estudo
 
-| Tecnologia | Descrição |
-|------------|-----------|
-| React 18 | Framework JavaScript |
-| Framer Motion | Biblioteca de animações |
-| Lucide React | Ícones modernos |
-| Vite | Build tool e dev server |
+- Python
+- JavaScript
+- SQL
+- Power BI
+- Git e GitHub
 
+---
 
-## 🚀 Como rodar localmente
+## Contato
 
-```bash
-# Clone o repositório
-git clone https://github.com/SEU_USER/portfolio.git
+LinkedIn: https://www.linkedin.com/in/matheus-araujo-ti
+E-mail: matheusaraujomoreirapinto1@gmail.com
 
-# Entre na pasta
-cd portfolio
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</div>
 
-# Instale as dependências
-npm install
+---
 
-# Rode o servidor de desenvolvimento
-npm run dev
+## 📌 Projetos em destaque
 
-# Abra http://localhost:3000 no navegador
-```
+### 🔹 Dashboard de Indicadores Sociais
+Projeto de análise e visualização de dados com foco em indicadores sociais, utilizando Power BI, SQL e modelagem de dados.
 
-## 📦 Build para produção
+### 🔹 Automação de Processos
+Automação de rotinas operacionais utilizando Python, integrações com APIs e organização de dados.
 
-```bash
-# Criar build otimizada
-npm run build
+### 🔹 Estudos em IA e Desenvolvimento
+Repositório com exercícios, testes e projetos relacionados a Inteligência Artificial, APIs, lógica de programação e automações.
 
-# Preview do build
-npm run preview
-```
+---
 
-## 📁 Estrutura do Projeto
+## 📈 Estatísticas
 
-```
-portfolio/
-├── .github/
-│   └── workflows/
-│       └── deploy.yml      # Configuração do GitHub Actions
-├── public/
-│   └── foto.png            # Sua foto de perfil
-├── src/
-│   ├── components/         # Componentes React
-│   │   ├── About.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Projects.jsx
-│   │   └── Skills.jsx
-│   ├── styles/
-│   │   └── global.css      # Estilos globais
-│   ├── App.jsx
-│   └── main.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark)
 
-## 🎨 Personalização
-
-### Adicionar sua foto:
-1. Coloque um arquivo `foto.png` na pasta `public/`
-2. Dimensões recomendadas: 400x400px (1:1)
-3. Formato: PNG com fundo transparente (opcional)
-
-### Atualizar informações:
-- **Nome e título:** `src/components/Hero.jsx`
-- **Sobre você:** `src/components/About.jsx`
-- **Projetos:** `src/components/Projects.jsx`
-- **Habilidades:** `src/components/Skills.jsx`
-- **Links de contato:** `src/components/Contact.jsx` e `src/components/Hero.jsx`
-
-## 🚢 Deploy
-
-Este projeto está configurado para deploy automático no GitHub Pages via GitHub Actions.
-
-A cada push na branch `main`, o workflow:
-1. Instala as dependências
-2. Faz o build do projeto
-3. Deploy para o GitHub Pages
-
-## 📫 Contato
-
-- 💼 LinkedIn: Matheus Araujo/ https://www.linkedin.com/in/matheus-araujo-bb595b380/
-- 📧 Email: matheusaraujomoreirapinto1@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark)
 - 🐙 GitHub: @matlfo/ https://github.com/matlfo
 
 ---
